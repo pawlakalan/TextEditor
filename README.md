@@ -2,13 +2,13 @@
 Text editor written in Java using Swing
 
 ## Main features
-Text editing
-Saving text 
-Loading saved text
+Text editing  
+Saving text  
+Loading saved text  
 
 ## TODO
-Implement searching with multithreading
-Add icons instead of buttons with text
+Implement searching with multithreading  
+Add icons instead of buttons with text  
 
 
 ## Screenshots
